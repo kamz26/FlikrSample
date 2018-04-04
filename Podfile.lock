@@ -1,0 +1,12 @@
+PODS:
+  - WaterfallLayout (0.1)
+
+DEPENDENCIES:
+  - WaterfallLayout (~> 0.1)
+
+SPEC CHECKSUMS:
+  WaterfallLayout: 44cdae408089e6459b0ac39b327dd4030d546f09
+
+PODFILE CHECKSUM: 8b923a144e312e596524e099ef12fc32ecc43416
+
+COCOAPODS: 1.3.1

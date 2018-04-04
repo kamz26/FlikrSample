@@ -1,0 +1,6 @@
+framework module Pods_FlikrSample {
+  umbrella header "Pods-FlikrSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
