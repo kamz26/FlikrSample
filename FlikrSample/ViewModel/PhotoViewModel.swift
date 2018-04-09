@@ -21,13 +21,9 @@ class PhotoViewModel:CellRepresent{
         let farm = String.init(describing: Int.init((photo?.farm!)!))
         let server = photo!.server!
         let id = photo!.id!
-        let secret = photo!.secret!
-        
+        let secret = photo!.secret!        
         let urlStr = "https://farm\(farm).static.flickr.com/\(server)/\(id)_\(secret).jpg"
         return URL.init(string: urlStr)!
-        
-        
-        
     }
     
     init(pic:Photo) {

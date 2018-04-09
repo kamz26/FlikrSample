@@ -15,16 +15,13 @@ class FlikrResultViewModel:NSObject{
     var photoViewModelArr = [PhotoViewModel]()
     
     func searchForStr(str:String, completion: @escaping ((Bool) -> Void)){
-        
         self.flikrsearchclient.searchFlickrForTerm(str){(sucess, error) in
-            
             if sucess{
                 for photo in (self.flikrsearchclient.responseData?.photos.photo)!{
                     let pic = PhotoViewModel(pic: photo)
                     self.photoViewModelArr.append(pic)
                 }
                 completion(true)
-                
             }else{
                 completion(false)
                 return
