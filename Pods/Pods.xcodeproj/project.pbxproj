@@ -10,31 +10,18 @@
 		0FB1D515E6B716C1F53DD7CD2712EE51 /* Pods-FlikrSampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CB98D48DE7A8615E2668D8C014CA3253 /* Pods-FlikrSampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		119043A100DFDC579225A13A98BFC03D /* Pods-FlikrSampleUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 2566425D985C77512C34AC77E18F4275 /* Pods-FlikrSampleUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		21EC19E19A3626F7665BE08344B75946 /* Pods-FlikrSampleUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AF7B0C0B014C64617EA644A2F7221E5F /* Pods-FlikrSampleUITests-dummy.m */; };
-		2C4F93204CEEEDD29DD0303EC5B2F0D8 /* WaterfallLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D3E2D5C87FD9EF93499F189F78FB4EC /* WaterfallLayout.swift */; };
-		3A2B74243738790ED74848B19000EAEB /* WaterfallLayout-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DCC936A7ED2AC2EFDD3DCA2C008A2DD3 /* WaterfallLayout-dummy.m */; };
-		4F8AB268D1E2DB159E2C281826465CFF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		6DBC7776420F7DB9EC4FDD3418866595 /* Pods-FlikrSample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CA7496264C0D822A11C7935C77CCE20 /* Pods-FlikrSample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4875FE2F9A1164830000197C0ED71B82 /* Pods-FlikrSample-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0CA7496264C0D822A11C7935C77CCE20 /* Pods-FlikrSample-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		750A37AA42BFB399981919559BF246E4 /* Pods-FlikrSample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 931E26166751844751A990DF1A0DAD02 /* Pods-FlikrSample-dummy.m */; };
 		7D451E2C010844EF8114516B56991AB4 /* Pods-FlikrSampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AC5B24FBB0CBAF3113C47F7AE6E19F81 /* Pods-FlikrSampleTests-dummy.m */; };
-		854412B344D5D1EB826936DEF2A025D6 /* Pods-FlikrSample-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 931E26166751844751A990DF1A0DAD02 /* Pods-FlikrSample-dummy.m */; };
 		96F7C297ABB856024332A54221B9F542 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		F0A5EBC129EC9FEBA8CECF6F8FB38F15 /* WaterfallLayout-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4929B6C82FDDD032A8421AB3769BA922 /* WaterfallLayout-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C401A3508A42182D1954701CC463C285 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 		F1CEEF7B7CE060407BB8E47D14067A29 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		F2C6F913595F4943CC839FDC24B6D4DD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
 /* End PBXBuildFile section */
-
-/* Begin PBXContainerItemProxy section */
-		FA6CD1A35368C679F0483189A784FB18 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 2AE39564898E2DE854380813DC4D6E70;
-			remoteInfo = WaterfallLayout;
-		};
-/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		0CA7496264C0D822A11C7935C77CCE20 /* Pods-FlikrSample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlikrSample-umbrella.h"; sourceTree = "<group>"; };
 		0F08252969D68788ECFCC92D464EC4D6 /* Pods-FlikrSampleTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlikrSampleTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		0F739638D8981365F91DFEB801423151 /* Pods_FlikrSampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSampleUITests.framework; path = "Pods-FlikrSampleUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10C42931DEA032AEF0323B9BA40F5244 /* Pods-FlikrSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlikrSample.debug.xcconfig"; sourceTree = "<group>"; };
 		182CF0F339FD12117F91FABA81A542D6 /* Pods-FlikrSampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlikrSampleTests.release.xcconfig"; sourceTree = "<group>"; };
 		1943CC218DF8E8161B69F5BBBE8834D4 /* Pods-FlikrSample-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FlikrSample-resources.sh"; sourceTree = "<group>"; };
@@ -45,24 +32,18 @@
 		35180E94369C7A91E16B3CB96DFC4A4F /* Pods-FlikrSampleUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FlikrSampleUITests-resources.sh"; sourceTree = "<group>"; };
 		3C3ACAC2343E329D91EA48B7AB63CEF0 /* Pods-FlikrSampleUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FlikrSampleUITests.modulemap"; sourceTree = "<group>"; };
 		401F88388C4416E9828D4105F6768B65 /* Pods-FlikrSample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlikrSample-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4929B6C82FDDD032A8421AB3769BA922 /* WaterfallLayout-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WaterfallLayout-umbrella.h"; sourceTree = "<group>"; };
 		4B82114D3260B91BFEF6CB8CB4C6B64F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4D3E2D5C87FD9EF93499F189F78FB4EC /* WaterfallLayout.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WaterfallLayout.swift; path = Sources/WaterfallLayout.swift; sourceTree = "<group>"; };
 		4F7386E384167ACB669A8007D1B1FC58 /* Pods-FlikrSampleTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FlikrSampleTests-frameworks.sh"; sourceTree = "<group>"; };
-		557AC2758B83D2C8D4B836A1C34A22ED /* Pods_FlikrSampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSampleTests.framework; path = "Pods-FlikrSampleTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5C8323A7351708C3F8FEF1A77C086F0F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		6EA10FE93966AAB5400CBCA62EDE3D1A /* Pods-FlikrSampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlikrSampleUITests.release.xcconfig"; sourceTree = "<group>"; };
 		73644FEB3788CFEF14F7DCDA9D2F2CCF /* Pods-FlikrSample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlikrSample.release.xcconfig"; sourceTree = "<group>"; };
-		75D34F466FCFE582DD1184E6C860244B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		78F3668E497C71A2CA35688D420DE9DF /* Pods-FlikrSampleUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlikrSampleUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		87C2D69E94D51EEBCAC40A759E0EAC16 /* WaterfallLayout.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = WaterfallLayout.framework; path = WaterfallLayout.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A614F8FEDF40595C16BED5F53D49BA7 /* Pods_FlikrSampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSampleTests.framework; path = "Pods-FlikrSampleTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E7EA633C277F6237DE326512C291293 /* Pods-FlikrSample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-FlikrSample-acknowledgements.plist"; sourceTree = "<group>"; };
 		91E7B23C7741404DF155209CC9FADD8E /* Pods-FlikrSampleUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlikrSampleUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		931E26166751844751A990DF1A0DAD02 /* Pods-FlikrSample-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlikrSample-dummy.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		96F0082983C6A99CBE9FCDFE5509038B /* WaterfallLayout.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = WaterfallLayout.modulemap; sourceTree = "<group>"; };
-		9B4145A0A77AEB55891B408A897F4A41 /* WaterfallLayout-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "WaterfallLayout-prefix.pch"; sourceTree = "<group>"; };
 		9B604D99508714E8DE840E99BC69F121 /* Pods-FlikrSampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FlikrSampleTests.modulemap"; sourceTree = "<group>"; };
 		9BAA5295D3A3F346D0B15643719356D1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D4ED1CF964876A05FD457AF58BB59ED /* Pods-FlikrSampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FlikrSampleTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -70,12 +51,9 @@
 		AF104D62A75E3A42B609027E19EF3015 /* Pods-FlikrSampleTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FlikrSampleTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		AF7B0C0B014C64617EA644A2F7221E5F /* Pods-FlikrSampleUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FlikrSampleUITests-dummy.m"; sourceTree = "<group>"; };
 		BE1CBDBF3620B13C10550C60CBA1C995 /* Pods-FlikrSampleTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-FlikrSampleTests-resources.sh"; sourceTree = "<group>"; };
-		C1B25B7D85D340DEFA7AB9B2E11D49BF /* Pods_FlikrSampleUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSampleUITests.framework; path = "Pods-FlikrSampleUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		C48CA02AAA80FEAD47B7327ED6717117 /* WaterfallLayout.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = WaterfallLayout.xcconfig; sourceTree = "<group>"; };
+		C0E47F75F00F1322758B4BD9552C32EF /* Pods_FlikrSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSample.framework; path = "Pods-FlikrSample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CB98D48DE7A8615E2668D8C014CA3253 /* Pods-FlikrSampleTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-FlikrSampleTests-umbrella.h"; sourceTree = "<group>"; };
 		CF080368EA86707177C34FF6BD10DC9D /* Pods-FlikrSample.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-FlikrSample.modulemap"; sourceTree = "<group>"; };
-		DCC936A7ED2AC2EFDD3DCA2C008A2DD3 /* WaterfallLayout-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "WaterfallLayout-dummy.m"; sourceTree = "<group>"; };
-		FDB51305F97B2503E6E1061C4E532C46 /* Pods_FlikrSample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_FlikrSample.framework; path = "Pods-FlikrSample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,19 +73,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5CF32A7C368A47EA5A2F90478459B04B /* Frameworks */ = {
+		6DCFC387184E50E472EDEA3B0ECA53A7 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F8AB268D1E2DB159E2C281826465CFF /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80175701DF3402828DA3D6D395BD3FCF /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F2C6F913595F4943CC839FDC24B6D4DD /* Foundation.framework in Frameworks */,
+				C401A3508A42182D1954701CC463C285 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,34 +130,12 @@
 			path = "Target Support Files/Pods-FlikrSampleUITests";
 			sourceTree = "<group>";
 		};
-		4FF463FFE7CC39D1DDB47F1D4FF2CF30 /* WaterfallLayout */ = {
-			isa = PBXGroup;
-			children = (
-				4D3E2D5C87FD9EF93499F189F78FB4EC /* WaterfallLayout.swift */,
-				F1B278436009144FE0B164C2130BF2F9 /* Support Files */,
-			);
-			name = WaterfallLayout;
-			path = WaterfallLayout;
-			sourceTree = "<group>";
-		};
-		62B2BA35D9CDB5D2332AE5566BC7759E /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				FDB51305F97B2503E6E1061C4E532C46 /* Pods_FlikrSample.framework */,
-				557AC2758B83D2C8D4B836A1C34A22ED /* Pods_FlikrSampleTests.framework */,
-				C1B25B7D85D340DEFA7AB9B2E11D49BF /* Pods_FlikrSampleUITests.framework */,
-				87C2D69E94D51EEBCAC40A759E0EAC16 /* WaterfallLayout.framework */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				DF295BE8B2A6F0E4117E1A91E1CE6884 /* Pods */,
-				62B2BA35D9CDB5D2332AE5566BC7759E /* Products */,
+				CAADD48F73A8CD041A5349D7673C98DC /* Products */,
 				14BA27F20918F5E580F5571311515592 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -218,34 +166,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		CAADD48F73A8CD041A5349D7673C98DC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C0E47F75F00F1322758B4BD9552C32EF /* Pods_FlikrSample.framework */,
+				8A614F8FEDF40595C16BED5F53D49BA7 /* Pods_FlikrSampleTests.framework */,
+				0F739638D8981365F91DFEB801423151 /* Pods_FlikrSampleUITests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
 			isa = PBXGroup;
 			children = (
 				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		DF295BE8B2A6F0E4117E1A91E1CE6884 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				4FF463FFE7CC39D1DDB47F1D4FF2CF30 /* WaterfallLayout */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		F1B278436009144FE0B164C2130BF2F9 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				75D34F466FCFE582DD1184E6C860244B /* Info.plist */,
-				96F0082983C6A99CBE9FCDFE5509038B /* WaterfallLayout.modulemap */,
-				C48CA02AAA80FEAD47B7327ED6717117 /* WaterfallLayout.xcconfig */,
-				DCC936A7ED2AC2EFDD3DCA2C008A2DD3 /* WaterfallLayout-dummy.m */,
-				9B4145A0A77AEB55891B408A897F4A41 /* WaterfallLayout-prefix.pch */,
-				4929B6C82FDDD032A8421AB3769BA922 /* WaterfallLayout-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/WaterfallLayout";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,19 +195,11 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		386BDB7F88C9A6CF45BEF4C41E292AF9 /* Headers */ = {
+		83061603060B54870176C7295FF5EC38 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DBC7776420F7DB9EC4FDD3418866595 /* Pods-FlikrSample-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		B113E78BBECD5BDEBE842E0C1470A70D /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				F0A5EBC129EC9FEBA8CECF6F8FB38F15 /* WaterfallLayout-umbrella.h in Headers */,
+				4875FE2F9A1164830000197C0ED71B82 /* Pods-FlikrSample-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,24 +228,7 @@
 			);
 			name = "Pods-FlikrSampleTests";
 			productName = "Pods-FlikrSampleTests";
-			productReference = 557AC2758B83D2C8D4B836A1C34A22ED /* Pods_FlikrSampleTests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		2AE39564898E2DE854380813DC4D6E70 /* WaterfallLayout */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 821085075DE92108347607B1376243C8 /* Build configuration list for PBXNativeTarget "WaterfallLayout" */;
-			buildPhases = (
-				E40ACD18D12C1D713ACE6A91A6A6FC66 /* Sources */,
-				80175701DF3402828DA3D6D395BD3FCF /* Frameworks */,
-				B113E78BBECD5BDEBE842E0C1470A70D /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = WaterfallLayout;
-			productName = WaterfallLayout;
-			productReference = 87C2D69E94D51EEBCAC40A759E0EAC16 /* WaterfallLayout.framework */;
+			productReference = 8A614F8FEDF40595C16BED5F53D49BA7 /* Pods_FlikrSampleTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		9FF54298363AF1F1415E2B1E5B3DD2C2 /* Pods-FlikrSampleUITests */ = {
@@ -334,25 +245,24 @@
 			);
 			name = "Pods-FlikrSampleUITests";
 			productName = "Pods-FlikrSampleUITests";
-			productReference = C1B25B7D85D340DEFA7AB9B2E11D49BF /* Pods_FlikrSampleUITests.framework */;
+			productReference = 0F739638D8981365F91DFEB801423151 /* Pods_FlikrSampleUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		A956F78AC30A60F699043641B5529C36 /* Pods-FlikrSample */ = {
+		E7363E977C23C33C43F6098A8B51B5EA /* Pods-FlikrSample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DD86B43720A1FBFAEA696C93D48A791F /* Build configuration list for PBXNativeTarget "Pods-FlikrSample" */;
+			buildConfigurationList = 70647E898846B621227546D86437AAAE /* Build configuration list for PBXNativeTarget "Pods-FlikrSample" */;
 			buildPhases = (
-				B1FEE69977FD34A494A7FF13F1573C83 /* Sources */,
-				5CF32A7C368A47EA5A2F90478459B04B /* Frameworks */,
-				386BDB7F88C9A6CF45BEF4C41E292AF9 /* Headers */,
+				FDE9E8940BB55452FC7530B1BBA3FAFC /* Sources */,
+				6DCFC387184E50E472EDEA3B0ECA53A7 /* Frameworks */,
+				83061603060B54870176C7295FF5EC38 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E1FD7C080D7267697CB919B1152AF0A7 /* PBXTargetDependency */,
 			);
 			name = "Pods-FlikrSample";
 			productName = "Pods-FlikrSample";
-			productReference = FDB51305F97B2503E6E1061C4E532C46 /* Pods_FlikrSample.framework */;
+			productReference = C0E47F75F00F1322758B4BD9552C32EF /* Pods_FlikrSample.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -372,14 +282,13 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 62B2BA35D9CDB5D2332AE5566BC7759E /* Products */;
+			productRefGroup = CAADD48F73A8CD041A5349D7673C98DC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A956F78AC30A60F699043641B5529C36 /* Pods-FlikrSample */,
+				E7363E977C23C33C43F6098A8B51B5EA /* Pods-FlikrSample */,
 				019C1C8F4BDB37139492D55CE09CEDCC /* Pods-FlikrSampleTests */,
 				9FF54298363AF1F1415E2B1E5B3DD2C2 /* Pods-FlikrSampleUITests */,
-				2AE39564898E2DE854380813DC4D6E70 /* WaterfallLayout */,
 			);
 		};
 /* End PBXProject section */
@@ -401,33 +310,15 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B1FEE69977FD34A494A7FF13F1573C83 /* Sources */ = {
+		FDE9E8940BB55452FC7530B1BBA3FAFC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				854412B344D5D1EB826936DEF2A025D6 /* Pods-FlikrSample-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		E40ACD18D12C1D713ACE6A91A6A6FC66 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3A2B74243738790ED74848B19000EAEB /* WaterfallLayout-dummy.m in Sources */,
-				2C4F93204CEEEDD29DD0303EC5B2F0D8 /* WaterfallLayout.swift in Sources */,
+				750A37AA42BFB399981919559BF246E4 /* Pods-FlikrSample-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		E1FD7C080D7267697CB919B1152AF0A7 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = WaterfallLayout;
-			target = 2AE39564898E2DE854380813DC4D6E70 /* WaterfallLayout */;
-			targetProxy = FA6CD1A35368C679F0483189A784FB18 /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		270EFC591E7F7DBC20D133524DD27199 /* Release */ = {
@@ -456,38 +347,6 @@
 				PRODUCT_NAME = Pods_FlikrSampleTests;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		29DC88E4000524056C6876CB0DB6B8BE /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C48CA02AAA80FEAD47B7327ED6717117 /* WaterfallLayout.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WaterfallLayout/WaterfallLayout-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WaterfallLayout/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WaterfallLayout/WaterfallLayout.modulemap";
-				PRODUCT_NAME = WaterfallLayout;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -552,6 +411,38 @@
 				STRIP_INSTALLED_PRODUCT = NO;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		5B477448E3B8323048C1FFDD31253981 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 10C42931DEA032AEF0323B9BA40F5244 /* Pods-FlikrSample.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FlikrSample/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FlikrSample/Pods-FlikrSample.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_FlikrSample;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
@@ -620,37 +511,6 @@
 			};
 			name = Release;
 		};
-		8617ACA516324CF5A8AFE313DB52DF20 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = C48CA02AAA80FEAD47B7327ED6717117 /* WaterfallLayout.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/WaterfallLayout/WaterfallLayout-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/WaterfallLayout/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/WaterfallLayout/WaterfallLayout.modulemap";
-				PRODUCT_NAME = WaterfallLayout;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		89C8BB24E37B25BAEEB8FBA01EE05DAF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -706,74 +566,6 @@
 			};
 			name = Release;
 		};
-		8E725709012DC69EC64F30B6A1330B11 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 73644FEB3788CFEF14F7DCDA9D2F2CCF /* Pods-FlikrSample.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FlikrSample/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FlikrSample/Pods-FlikrSample.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_FlikrSample;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		9C82CC61227CDC4297E8BD0963B5A915 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 10C42931DEA032AEF0323B9BA40F5244 /* Pods-FlikrSample.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-FlikrSample/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-FlikrSample/Pods-FlikrSample.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_FlikrSample;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		C5631ACD4296E03A603FDA821C081BD9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9D4ED1CF964876A05FD457AF58BB59ED /* Pods-FlikrSampleTests.debug.xcconfig */;
@@ -806,6 +598,39 @@
 			};
 			name = Debug;
 		};
+		FFE328631DBAF2CE10BE95D0C1281C27 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 73644FEB3788CFEF14F7DCDA9D2F2CCF /* Pods-FlikrSample.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-FlikrSample/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-FlikrSample/Pods-FlikrSample.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_FlikrSample;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -827,11 +652,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		821085075DE92108347607B1376243C8 /* Build configuration list for PBXNativeTarget "WaterfallLayout" */ = {
+		70647E898846B621227546D86437AAAE /* Build configuration list for PBXNativeTarget "Pods-FlikrSample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8617ACA516324CF5A8AFE313DB52DF20 /* Debug */,
-				29DC88E4000524056C6876CB0DB6B8BE /* Release */,
+				5B477448E3B8323048C1FFDD31253981 /* Debug */,
+				FFE328631DBAF2CE10BE95D0C1281C27 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -841,15 +666,6 @@
 			buildConfigurations = (
 				C5631ACD4296E03A603FDA821C081BD9 /* Debug */,
 				270EFC591E7F7DBC20D133524DD27199 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		DD86B43720A1FBFAEA696C93D48A791F /* Build configuration list for PBXNativeTarget "Pods-FlikrSample" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				9C82CC61227CDC4297E8BD0963B5A915 /* Debug */,
-				8E725709012DC69EC64F30B6A1330B11 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
